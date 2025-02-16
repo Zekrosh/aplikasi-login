@@ -1,6 +1,8 @@
 # aplikasi-login
 
-#alur aplikasi login
-1. masukkan email dan pass
-2. 2. validasi input
-3. masuk halaman beranda
+alur login aplikasi:
+1. Memasukkan nama, email, dan password
+2. Memvalidasi masukan.
+3. Memvalidasi pengguna dengan deteksi wajah.
+4. Memasukkan nama ibu untuk validasi.
+5. Menampilkan halaman home.
